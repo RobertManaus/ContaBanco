@@ -4,6 +4,4 @@ public class ContaTerminal {
     public String agencia;
     public String nomeCliente;
     public double saldo;
-
-   
 }
